@@ -40,6 +40,6 @@ Consider giving it a **star ⭐** — it really helps!
 
 ---
 
-**Built with ❤️ by Aditya Shrimali**
-**Template Copyright To Colorlib**
+**Built with ❤️ by Aditya Shrimali**.
+**Template Copyright To Colorlib**.
 
