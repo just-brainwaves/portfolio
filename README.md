@@ -25,19 +25,6 @@ I enjoy turning raw data into meaningful insights through **data cleaning, explo
 - ⚡ Fast & lightweight — no heavy frameworks
 
 ---
-## 📁 Folder Structure
-
-portfolio/
-├── index.html
-├── styles.css
-├── script.js
-├── assets/
-│ ├── Aditya_Shrimali_Resume.pdf
-│ ├── images/
-│ └── icons/
-└── README.md
-
----
 
 ## 📬 Contact
 
