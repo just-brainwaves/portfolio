@@ -24,4 +24,34 @@ I enjoy turning raw data into meaningful insights through **data cleaning, explo
 - 🧠 Clean and structured layout
 - ⚡ Fast & lightweight — no heavy frameworks
 
+---
+## 📁 Folder Structure
+
+portfolio/
+├── index.html
+├── styles.css
+├── script.js
+├── assets/
+│ ├── Aditya_Shrimali_Resume.pdf
+│ ├── images/
+│ └── icons/
+└── README.md
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **aditya.shrimali.dev@gmail.com**
+- 🐙 GitHub: [just-brainwaves](https://github.com/just-brainwaves/)
+- 💼 LinkedIn: [dev-adi-s](https://www.linkedin.com/in/dev-adi-s/)
+
+---
+
+## ⭐ If you like this project
+
+Consider giving it a **star ⭐** — it really helps!
+
+---
+
+**Built with ❤️ by Aditya Shrimali**
 
