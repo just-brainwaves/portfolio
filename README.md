@@ -34,9 +34,9 @@ I enjoy turning raw data into meaningful insights through **data cleaning, explo
 
 ---
 
-## ⭐ If you like this project
+## ⭐ If you like my projects
 
-Consider giving it a **star ⭐** — it really helps!
+Consider giving them **stars ⭐** — it really helps!
 
 ---
 
