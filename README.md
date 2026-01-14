@@ -18,7 +18,7 @@ I enjoy turning raw data into meaningful insights through **data cleaning, explo
 
 ## 🚀 Features
 
-- 🌗 **Dark Modee**
+- 🌗 **Dark Mode**
 - 🎬 Smooth **scroll animations (AOS)**
 - 📂 **Downloadable Resume**
 - 🧠 Clean and structured layout
